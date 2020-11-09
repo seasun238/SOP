@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/seasun238/SOP/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seasun238/SOP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<I DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+<meta chaset="utf-8">
+<title>صفحه‌ی فارسی راست چین میباشد</title>
+</head>
+<body>
+♡باسلام♡
+<br> ‌ 
+هلن دباغی هستم.
+<br>
+دانشجوی رشته‌ی مهندسی کامپیوتر در دانشگاه پیام نور تهران شمال.
+<br>
+دوران دبیرستان در رشته‌ی علوم تجربی تحصیل کرده سپس وارد دانشگاه آزاد شدم و مدرک کاردانی کاربرد کامپیوتر را گرفتم.
+<br>
+بعلت علاقه به کامپیوتر و علوم روز قبل از دانشگاه کلاسهای متعدد کامپیوتری بصورت آزاد در دانشگاه علامه طباطبایی و آموزشگاه های معتبر تهران گذراندم (نوع کلاس و مدارک در رزومه اینجانب هست).
+<br>
+ لذا در دانشگاه همزمان با تحصیل بعضی دروس را تدریس میکردم ( به خواسته مدیر گروه و توافق رئیس دانشگاه  برای کمک به دانشجویان بصورت آزاد و رایگان). 
+<br>
+برای گذراندن دوره کارورزی وارد بازار کار شدم که منجر به بیست سال سابقه کاری در شرکتهای کشتیرانی و حمل و نقل بین المللی (زمینی، دریایی، هوایی) در سمت های مختلف سوپروایزر و مدیریت در بخش های: واردات ، صادرات، ترانزیت، عملیات و  بازاریابی شد.
+<br> 
+بعلت شرایط سخت کنکور و از دست دادن والدین در سالهای اخر دبیرستان سرپرست و مسئول خانواده شدم بنابراین ادامه تحصیلات آکادمی برایم مقدور نبود لذا از آنجایی که ایده و تفکر من آسایش و لذت بردن از زندگی بود نه مدرک گرایی یا رقابت و با توجه به شرایطم که اکثرا شاگرد متوسط ، کوشا و با اراده ای بودم از اینرو بعد از بیست و چهار سال مجدد وارد دانشگاه شده و ادامه تحصیل میدهم.
+<br> 
+د ر طول سالهای کاری همزمان با کار اصلی ( سوپروایزر و مدیریت در شرکتهای کشتیرانی و حمل و نقل بین المللی ) 
+بطور متعدد مدیریت و مربیگری در چند آموزشگاه کامپیوتری  وابسته به سازمان فنی و حرفه ای ، کافی نت و مشاور و مدیر  بازرگانی یک شرکت بازرگانی خارجی را عهده دار بودم. 
+<br>
+درحال حاضر میخواهم یک زبان برنامه نویسی را شروع و به درجه حرفه ای نائل گردم. 
+<br>
+از خصوصیات رفتاری من صبور، کنجکاو ، با اراده و پیگیر بودن می باشد  که همین امر باعث موفقیت درحیطه کاری و زندگی من شده است بدینجهت منجر به ادامه تحصیل در رشته مورد علاقه ام (کامپیوتر)  ‌بعد از این وقفه طولانی تحصیلی گردیده است. 
+<br>
+<br>
+اهداف من‌ ‌: ‌ 
+تبدیل به یک برنامه نویس حرفه ای گردم  تا ایده و پروژه هایی را که در ذهن دارم جامع عمل بپوشانم  همچنین  برای خانواده، جامعه و دیگران مفید و الگو واقع شوم و در نهایت  در راستای کارهای بزرگتر قدم بردارم.
+به امید دنیایی بهتر...
+</body>
+</html>
